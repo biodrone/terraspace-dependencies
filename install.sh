@@ -13,5 +13,7 @@ sudo gem install armrest-0.1.3.gem
 sudo rpm -ivh terraspace-latest.rpm
 
 # Version Checks
+echo '##### Version Check #####'
 terraform version
 terraspace version
+echo '##### Version Check #####'
